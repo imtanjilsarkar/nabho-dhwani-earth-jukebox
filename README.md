@@ -92,7 +92,7 @@ Built for NASA Space Apps Challenge 2026 by:
 | Md. Mohiul Alam | Contributor |
 | Tanjil Hasan Emon | Contributor |
 | Abdullah Al Hossain | Contributor |
-| Srobona Nubah Sabir | Contributor |
+| Masuda Alam Moutushi | Contributor |
 
 ## Roadmap
 
